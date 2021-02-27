@@ -3,10 +3,10 @@ export default {
     56: '0xbb02017c9478a13365f4455F9162c5134Fd99F02',
     97: '0xbb02017c9478a13365f4455F9162c5134Fd99F02',
   },
-  
+
   masterChef: {
     56: '0xcC4B4a109dbC409B2d603E7827294Ebb4ffF1e6E',
-    97: '',
+    97: '0xcC4B4a109dbC409B2d603E7827294Ebb4ffF1e6E',
   },
   wbnb: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
