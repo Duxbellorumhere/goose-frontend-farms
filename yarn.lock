@@ -1828,9 +1828,20 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@goosedefi/goose-uikit#releases":
+"@pancakeswap-libs/uikit@Duxbellorumhere/goose-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/goosedefi/goose-uikit/tar.gz/bdb70ab2b843e7cbfde76103852cfa3435a4be1b"
+  uid "440af90e0c00d0a03c7f33228ed0e48696f8c1fa"
+  resolved "https://codeload.github.com/Duxbellorumhere/goose-uikit/tar.gz/440af90e0c00d0a03c7f33228ed0e48696f8c1fa"
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
+"@pancakeswap-libs/uikit@duxbellorumhere/goose-uikit":
+  version "0.10.2"
+  resolved "https://codeload.github.com/duxbellorumhere/goose-uikit/tar.gz/440af90e0c00d0a03c7f33228ed0e48696f8c1fa"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
